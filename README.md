@@ -1,2 +1,0 @@
-# healthify
-Created with CodeSandbox
